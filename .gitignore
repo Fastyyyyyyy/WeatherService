@@ -1,3 +1,10 @@
-Debug/
+# Игнорируемые файлы и папки
 .vs/
+Debug/
+bin/
+obj/
 *.user
+*.sln
+*.vcxproj
+*.filtersDebug/
+Debug/
